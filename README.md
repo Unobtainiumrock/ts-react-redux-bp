@@ -1,10 +1,10 @@
-#React + Redux and TypeScript Boiler Plate
+# React + Redux and TypeScript Boiler Plate
 
-##Description
+## Description
 This is just a simple setup to jump right into developing projects with the previously mentioned tech.
 Check out the package.json for additional information on packages that are used.
 
-##Prerequisites
+## Prerequisites
 Have node and npm installed https://nodejs.org/en/download/
 
 
@@ -23,7 +23,7 @@ Have node and npm installed https://nodejs.org/en/download/
 
 note: This assumes that you have knowledge of module patterns and loading various dependencies into a project.
 
-####Useful info on declaration files for third party modules
+#### Useful info on declaration files for third party modules
 https://blogs.msdn.microsoft.com/typescript/2016/06/15/the-future-of-declaration-files/
 
 I've already added the declaration files to keep TypeScript from annoying you about no declaration files.
